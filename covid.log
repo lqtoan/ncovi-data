@@ -1,10 +1,10 @@
-"province_name": "Vietnam"
- "type": "TG"
- "id": 13698369
- "increase_deaths": 148
- "increase_recovered": 1668
- "confirmed": 1197404
- "recovered": 956924
+"type": "TG"
+ "increase_confirmed": 26778
+ "increase_deaths": 174
+ "increase_recovered": 21031
+ "deaths": 799312
+ "confirmed": 49077695
+ "recovered": 38861714
+ "id": 13698335
  "last_update": 1638089104
- "increase_confirmed": 16067
- "deaths": 24692
+ "province_name": "USA"
