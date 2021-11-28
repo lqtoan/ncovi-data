@@ -16,7 +16,7 @@ recovered="$(grep -w recovered $file | awk '{print $2}')"
 inc_recovered="$(grep -w increase_recovered $file | awk '{print $2}')"
 # last_update="$(grep -w last_update $file | awk '{print $2}')"
 
-echo "***************************"
+echo "*********************************"
 echo "$country"
 echo "Confirmed: $confirmed"
 echo "Increase confirmed: $inc_confirmed"
@@ -25,6 +25,6 @@ echo "Increase deaths: $inc_deaths"
 echo "Recovered: $recovered"
 echo "Increase recovered: $recovered"
 # echo "Last update: $last_update"
-echo "***************************"
+echo "*********************************"
 
 exit 0
