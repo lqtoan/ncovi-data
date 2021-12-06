@@ -1,4 +1,4 @@
-#!/bin/sh 
+#!/bin/zsh 
 
 country=$1
 [ -z $country ] && country="Vietnam"
